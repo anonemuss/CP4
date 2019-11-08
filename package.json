@@ -1,0 +1,29 @@
+{
+  "name": "cp4",
+  "version": "1.0.0",
+  "description": "CP4 for cs260",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anonemuss/CP4.git"
+  },
+  "author": "Hank Eaton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anonemuss/CP4/issues"
+  },
+  "homepage": "https://github.com/anonemuss/CP4#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {}
+}
